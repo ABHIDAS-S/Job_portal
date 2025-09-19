@@ -1,0 +1,52 @@
+[
+    {
+      "name": "Jane Doe",
+      "userType": "Job Seeker",
+      "rating": 5,
+      "comment": "This platform made my job search process smooth and efficient. I found my ideal job within a week of signing up. Highly recommend it to anyone seeking new opportunities!"
+    },
+    {
+      "name": "Tom Roberts",
+      "userType": "Recruiter",
+      "rating": 4,
+      "comment": "The recruitment tools provided by this job portal are excellent. We were able to filter through candidates quickly and efficiently. The only improvement would be faster application tracking updates."
+    },
+    {
+      "name": "Emily Thompson",
+      "userType": "Job Seeker",
+      "rating": 4,
+      "comment": "I appreciated the detailed job recommendations based on my profile. However, I feel the notifications could be more timely. Overall, a great platform for job hunting."
+    },
+    {
+      "name": "Lucas Bennett",
+      "userType": "Recruiter",
+      "rating": 5,
+      "comment": "The AI-powered candidate matching helped us find the right talent much quicker than other platforms. The overall experience has been very positive."
+    },
+    {
+      "name": "Sarah Lopez",
+      "userType": "Job Seeker",
+      "rating": 3,
+      "comment": "I found the platform easy to use, but some job postings seemed outdated. Despite that, I did land a few interviews, so it’s still a useful tool."
+    },
+    {
+      "name": "Mark Peterson",
+      "userType": "Recruiter",
+      "rating": 4,
+      "comment": "Great platform for reaching a wide range of candidates. The screening tools are intuitive and easy to use. Slight improvements in the reporting dashboard would be appreciated."
+    },
+    {
+      "name": "Olivia Watson",
+      "userType": "Job Seeker",
+      "rating": 5,
+      "comment": "I landed my dream job thanks to this portal! The one-click application process saved me so much time, and I really appreciated the real-time status updates on my applications."
+    },
+    {
+      "name": "Daniel King",
+      "userType": "Recruiter",
+      "rating": 3,
+      "comment": "The job portal is decent, but we faced some issues with integration into our existing ATS system. Support was helpful, though, and resolved it after a few days."
+    }
+  ]
+  
+  

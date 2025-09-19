@@ -1,0 +1,25 @@
+/* eslint-disable react/prop-types */
+/* eslint-disable react/no-unknown-property */
+import React from "react";
+import notFound from "../../public/notFound.svg";
+
+function NotFound({ text }) {
+  return (
+    <div className="col-span-full flex flex-col justify-center items-center mt-32 gap-3 ">
+   <svg 
+  width="50" 
+  height="50" 
+  viewBox="0 0 17 17" 
+  fill="none"
+>
+  <g transform="translate(1.000000, 2.000000)" fill="#c4c4c4">
+    <path d="M7.35,3 L5.788,0.042 L2.021,0.042 L2.021,1.063 L0.023,1.063 L0.023,10.976 L1.043,10.976 L1.045,11.976 L15.947,11.976 L15.968,3 L7.35,3 L7.35,3 Z M10.918,9.109 L10.09,9.938 L8.512,8.361 L6.934,9.938 L6.104,9.109 L7.682,7.531 L6.104,5.953 L6.934,5.125 L8.512,6.701 L10.088,5.125 L10.918,5.953 L9.34,7.531 L10.918,9.109 L10.918,9.109 Z" />
+    <path d="M13.964,1.982 L13.964,1.042 L8.024,1.042 L8.354,1.982 L13.964,1.982 Z" />
+  </g>
+</svg>
+      <p className="font-semibold text-gray-400">{text}</p>
+    </div>
+  );
+}
+
+export default NotFound;
